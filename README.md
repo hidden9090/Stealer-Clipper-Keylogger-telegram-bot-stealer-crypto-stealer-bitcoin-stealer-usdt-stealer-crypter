@@ -2,7 +2,7 @@
 All victim's logs will be sent to your Telegram bot
  
 
-   
+    
      
 
 🚧 Disclaimer :- 
