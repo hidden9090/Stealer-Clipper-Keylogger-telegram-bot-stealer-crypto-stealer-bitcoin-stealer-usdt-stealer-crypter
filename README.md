@@ -5,7 +5,7 @@ All victim's logs will be sent to your Telegram bot
     
      
 
-🚧 Disclaimer :- 
+🚧 Disclaimer :-  
 
 This program is for educational purposes only.
 
